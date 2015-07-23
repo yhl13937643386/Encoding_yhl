@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <item android:id="@+id/Md5" android:title="Md5页面"></item>
+    <item android:id="@+id/Base64" android:title="Base64页面"></item>
+    <item android:id="@+id/Des" android:title="Des页面"></item>
+
+
+
+</menu>
